@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Gomoku Game",
+    "version": "1.1",
+    "description": "A Gomoku (5子棋) game with configurable board size, AI opponent, and game state saving",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["storage"]
+  }
